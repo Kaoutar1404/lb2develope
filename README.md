@@ -1,4 +1,4 @@
-# 💰 HabitationAndroid — Calcul d'Impôts Locaux
+#Lab2 💰 HabitationAndroid — Calcul d'Impôts Locaux
 
 Application Android développée dans le cadre d'un lab de développement mobile, permettant de calculer les impôts locaux d'un bien immobilier à partir des informations du propriétaire.
 
@@ -6,7 +6,11 @@ Application Android développée dans le cadre d'un lab de développement mobile
 
 ## 🎬 Démonstration
 
-https://github.com/TON_USER/TON_REPO/raw/main/demo.mp4
+
+
+https://github.com/user-attachments/assets/9a083890-2ac7-4b72-935c-3d8a0aa0073c
+
+
 
 > Remplace le lien ci-dessus par l'URL réelle de ta vidéo après l'avoir uploadée sur GitHub.
 
